@@ -18,7 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-markdown: GFM
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
 
 title: KangChanSong's Blog
 email: thdrkdcks@naver.com
