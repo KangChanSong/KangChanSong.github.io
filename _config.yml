@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   KangChanSong's Blog
 domain: KangChanSong.github.io
 baseurl: /
-url: http://KangChanSong.github.io
+url: https://KangChanSong.github.io
 #twitter_username: jekyllrb
 github_username:  KangChanSong
 
